@@ -2,7 +2,7 @@
 
 Competition url: https://www.kaggle.com/competitions/amex-default-prediction/overview
 
-## This repo solve the problem using the Ensemble of two LightGBMs and one XGBoost, the major endeavour spent on feature engineering.
+### This repo solve the problem using the Ensemble of two LightGBMs and one XGBoost, the major efforts had spent on feature engineering.
 
 This competition aims at developing ML models for customer credit default prediction based on a variety of customer credit card usage records, including time-series behavioral data and anonymous customer profile information provided by American Express.
 
